@@ -1,4 +1,4 @@
-![wwww.ayrtonnacer.com](./python.png)
+![wwww.ayrtonnacer.com](./python.jpg)
 # URL Shortener
 
 This Python script allows you to shorten long URLs using the TinyURL service. It prompts the user to input a URL, shortens it, and displays the shortened URL.
